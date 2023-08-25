@@ -2,3 +2,4 @@ build/
 edge-impulse-sdk/
 tflite-model/
 model-parameters/
+.DS_Store
